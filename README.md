@@ -20,8 +20,10 @@ The project uses Python, Pandas, Excel, SciPy, Matplotlib and Python-based data 
 
 ## Project Links
 
-- GitHub Repository: ApexPlanet_Task_4
+- GitHub Repository: https://github.com/anishraj-builds/ApexPlanet_Task_4
+  
 - Final Presentation: `presentation/Task_4_Data_Storytelling_Deck.pptx`
+  
 - Stakeholder Video: `presentation/apexplanet_task4_stakeholder_presentation.mp4`
 
 ---
