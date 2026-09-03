@@ -1,0 +1,25 @@
+Metric,Result
+Analysis unit,Order
+Mixed-category/anomalous orders excluded,1
+All valid orders,980
+Hypothesis-test orders,979
+Electronics orders,347
+Other-category orders,632
+Electronics order-level AOV,145037.74
+Other-category order-level AOV,136232.75
+Electronics median order value,118857.45
+Other-category median order value,105739.98
+Electronics standard deviation,118093.6
+Other-category standard deviation,110837.27
+Observed difference,8804.99
+Relative difference,6.46
+t-statistic,1.1403
+p-value,0.2546
+Welch degrees of freedom,675.04
+95% CI lower,-6356.95
+95% CI upper,23966.94
+Cohen's d,0.0776
+Effect size interpretation,Negligible
+Mann-Whitney U,113528.0
+Mann-Whitney p-value,0.3598
+Decision,Fail to reject H0

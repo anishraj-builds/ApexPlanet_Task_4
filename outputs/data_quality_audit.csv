@@ -1,0 +1,15 @@
+Metric,Value
+Original records,1000
+Excluded records,13
+Valid records,987
+Exclusion rate,1.30%
+Missing Order_Date,0
+Missing Total_Sales,0
+Missing Category,0
+Missing City,13
+Distinct Order_ID values after validation,980
+Unique Customer_ID values after validation,936
+Order_IDs appearing more than once,1
+Mixed-category/anomalous Order_IDs,1
+All valid orders,980
+Hypothesis-test orders,979
